@@ -34,14 +34,17 @@ Small and mid-sized organizations often manage payroll manually using scattered 
 
 ## 📸 Screenshots
 
-### Company Payroll Sheet
-![Company Sheet](Screenshots/Company%20Sheet.png)
+### Detail Sheet
+![Detail Sheet](Project%20Screenshots/Detail%20Sheet.png)
 
-### Key Metrics Summary
-![Key Metrics](Screenshots/Key%20Metrics.png)
+### Cleaned Data
+![Cleaned Data](Project%20Screenshots/Cleaned%20Data.png)
 
-### Raw Data
-![Raw Data](Screenshots/Raw%20Data.png)
+### Key Matrices
+![Key Matrices](Project%20Screenshots/Key%20Matrices.png)
+
+### Paid vs Unpaid
+![Paid vs Unpaid](Project%20Screenshots/Paid%20vs%20Unpaid.png)
 
 ---
 
@@ -94,10 +97,11 @@ Small and mid-sized organizations often manage payroll manually using scattered 
 ```
 Employee-Salary-Payroll-Management/
 │
-├── Screenshots/
-│   ├── Company Sheet.png       # Formatted payroll register
-│   ├── Key Metrics.png         # Summary dashboard
-│   └── Raw Data.png            # Raw employee salary data
+├── Project Screenshots/
+│   ├── Detail Sheet.png        # Formatted payroll register
+│   ├── Cleaned Data.png        # Cleaned employee salary data
+│   ├── Key Matrices.png        # Summary dashboard
+│   └── Paid vs Unpaid.png      # Payment status chart
 │
 ├── SALARY_SHEET_Project_5.xlsx # Main workbook
 └── README.md
