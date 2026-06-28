@@ -103,7 +103,8 @@ Employee-Salary-Payroll-Management/
 │   ├── Key Matrices.png        # Summary dashboard
 │   └── Paid vs Unpaid.png      # Payment status chart
 │
-├── SALARY_SHEET_Project_5.xlsx # Main workbook
+├── SALARY SHEET EXCEL FILE.xlsx  # Main workbook
+├── SALARY SHEET CSV FILE.csv     # Raw dataset for use in other tools
 └── README.md
 ```
 
